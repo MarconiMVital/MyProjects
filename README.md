@@ -1,4 +1,4 @@
-# MyProjects
+# Netflix Analysis
 ### Olá! Meu nome é Marconi Moreira Vital, sou Analista de Dados e esse é meu repositório de projetos. Seja bem vindo(a)!
 
 - O objetivo desse repositório é apresentar minhas experiências na área de Análise Dados. 
